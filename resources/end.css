@@ -1,0 +1,9 @@
+.score,
+.hide,
+.show {
+    display: none;
+}
+
+.active {
+    display: block;
+}
